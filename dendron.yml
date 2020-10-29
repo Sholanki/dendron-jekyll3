@@ -1,5 +1,6 @@
 site:
     copyAssets: true
+    color_scheme: dark
     siteHierarchies:
         - root
     siteRootDir: docs
